@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\bin\Debug\netcoreapp3.1\randomquote.exe
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\bin\Debug\netcoreapp3.1\randomquote.deps.json
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\bin\Debug\netcoreapp3.1\randomquote.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\bin\Debug\netcoreapp3.1\randomquote.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\bin\Debug\netcoreapp3.1\randomquote.dll
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\bin\Debug\netcoreapp3.1\randomquote.pdb
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\obj\Debug\netcoreapp3.1\randomquote.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\obj\Debug\netcoreapp3.1\randomquote.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\obj\Debug\netcoreapp3.1\randomquote.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\obj\Debug\netcoreapp3.1\randomquote.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\obj\Debug\netcoreapp3.1\randomquote.dll
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\obj\Debug\netcoreapp3.1\randomquote.pdb
+C:\Users\opilane\source\repos\TITpe21\createtitpe\randomquote\obj\Debug\netcoreapp3.1\randomquote.genruntimeconfig.cache

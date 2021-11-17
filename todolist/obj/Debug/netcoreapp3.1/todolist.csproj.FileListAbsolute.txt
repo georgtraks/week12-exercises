@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\bin\Debug\netcoreapp3.1\todolist.exe
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\bin\Debug\netcoreapp3.1\todolist.deps.json
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\bin\Debug\netcoreapp3.1\todolist.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\bin\Debug\netcoreapp3.1\todolist.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\bin\Debug\netcoreapp3.1\todolist.dll
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\bin\Debug\netcoreapp3.1\todolist.pdb
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\obj\Debug\netcoreapp3.1\todolist.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\obj\Debug\netcoreapp3.1\todolist.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\obj\Debug\netcoreapp3.1\todolist.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\obj\Debug\netcoreapp3.1\todolist.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\obj\Debug\netcoreapp3.1\todolist.dll
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\obj\Debug\netcoreapp3.1\todolist.pdb
+C:\Users\opilane\source\repos\TITpe21\createtitpe\todolist\obj\Debug\netcoreapp3.1\todolist.genruntimeconfig.cache
